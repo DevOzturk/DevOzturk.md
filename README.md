@@ -1,10 +1,6 @@
-![](https://komarev.com/ghpvc/?username=umutxyp&color=blue)
+![](https://komarev.com/ghpvc/?username=ardajsx&color=blue)
 
 <h3 align="left">Hey  there👋</h3>
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ardajsx.ardajsx&left_color=blue&right_color=grey&left_text=Profie views"  />
-</div>
 
 <p align="left">I  am a web developer who started  software 1 year ago and I live in Istanbul, I have been designing for more than 2 years.</p>
 
