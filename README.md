@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=umutxyp&color=blue)
 
 <h3 align="left">Hey  there👋</h3>
 
@@ -16,26 +17,3 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
 </div>
 
-###
-
-<h3 align="left"></h3>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<h3 align="left"></h3>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<p align="left"></p>
-
-###
