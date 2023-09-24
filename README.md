@@ -8,7 +8,7 @@
 ###
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DevOzturk.DevOzturk&left_color=blue&right_color=grey&left_text=Profie views"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ardajsx.ardajsx&left_color=blue&right_color=grey&left_text=Profie views"  />
 </div>
 
 ###
